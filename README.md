@@ -1,4 +1,4 @@
-# mflix
+# mflix - Handd-On Guided- Project with MongoDB
 
 This file is a guide to getting started running mflix, an example video
 streaming application backed by MongoDB!
